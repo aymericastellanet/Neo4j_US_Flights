@@ -1,0 +1,62 @@
+airline,country,carrier_2_letters,carrier_3_letters
+American Airlines Inc.,U.S.A.,AA,AAL
+Air Canada,Canada,AC,ACA
+Alitalia-compagnia Aerea Italiana S.p.,Italy,AZ,AZA
+Air France,France,AF,AFR
+Air Caledonie International,Caledonia,SB,ACI
+Air New Zealand Ltd.,New Zealand,NZ,ANZ
+Air India Ltd.,India,AI,AIC
+Aeromexico,Mexico,AM,AMX
+"All Nippon Airways Co., Ltd.",Japan,NH,ANA
+Air Tahiti Nui,Tahiti,TN,THT
+Austrian Airlines Ag,Austria,OS,AUA
+Air Pacific,Fiji,FJ,FJI
+Ahk Air Hong Kong Ltd.,Hong Kong,LD,AHK
+Aeroflot Russian Airlines,Russia,SU,AFL
+Air Niugini Pty Ltd.,Niugini,PX,ANG
+"Air Nippon Co., Ltd.",Japan,EL,ANK
+Asiana Airlines Inc.,Korea,OZ,AAR
+Air China Ltd.,China,CA,CCA
+British Airways P.l.c.,U.K.,BA,BAW
+"Continental Airlines, Inc.",U.S.A.,CO,COA
+Cathay Pacific Airways Ltd.,China,CX,CPA
+Cargolux Airlines Int’l S.a.,Luxemburg,CV,CLX
+China Airlines Ltd,Taiwan,CI,CAL
+China Eastern Airlines,China,MU,CES
+China Southern Airlines,China,CZ,CSN
+"Delta Air Lines, Inc.",U.S.A.,DL,DAL
+Dalavia Far East Airways,Russia,H8,KHB
+Egyptair,Egypt,MS,MSR
+Emirates Sky Cargo,U.A.E.,EK,UAE
+Eva Airways Corp.,Taiwan,BR,EVA
+Fedex,U.S.A.,FX,FDX
+Finnair O/y,Finland,AY,FIN
+Garuda Indonesia,Indonesia,GA,GIA
+Hong Kong Dragon Airlines Limited.,Hong Kong,KA,HAD
+Iran-air,Iran,IR,IRA
+Japan Airlines Co. Ltd,Japan,JL,JAL
+"Japan Asia Airways Co., Ltd.",Japan,EG,JAA
+Klm Royal Dutch Airlines,Netherlands,KL,KLM
+"Korean Air Lines Co.,ltd.",Korea,KE,KAL
+Lufthansa Cargo Ag.,Germany,LH,DLH
+Malaysia Airlines System Berhad,Malaysia,MH,MAS
+Miat-mongolian Airlines,Mongolia,OM,MGL
+"Northwest Airlines, Inc.",U.S.A.,NW,NWA
+Nippon Cargo Airlines,Japan,KZ,NCA
+"Philippine Airlines, Inc.",Philippines,PR,PAL
+Pakistan Int’l Airlines,Pakistan,PK,PIA
+Polar Air Cargo Inc.,U.S.A.,PO,PAC
+Qantas Airways Ltd.,Australia,QF,QFA
+Royal Nepal Airlines Corp.,Nepal,RA,RNA
+Scandinavian Airlines System(sas),Sweden,SK,SAS
+Srilankan Airlines Ltd.,Sri Lanka,UL,ALK
+Singapore Airlines Ltd.,Singapore,SQ,SQC
+Swiss Int’l Air Lines Ltd.,Switzerland,LX,SWR
+"Shanghai Airlines Co., Ltd.",China,FM,
+"Thai Airways Int’l Public Co.,ltd.",Thailand,TG,THA
+Turkish Airlines Inc.,Turkey,TK,THY
+"United Airlines, Inc.",U.S.A.,UA,UAL
+Uzbekistan Airways,Uzbekistan,HY,UZB
+United Parcel,U.S.A.,5X,UPS
+Vietnam Airlines,Vietnam,VN,HVN
+Virgin Atlantic,U.K.,VS,VIR
